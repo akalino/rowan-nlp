@@ -34,7 +34,7 @@ Assigned Presenter:
 
 Long Short-term Memory. Sepp Hochreiter, Jurgen Schmidhuber. https://blog.xpgreat.com/file/lstm.pdf
 
-Assigned Presenter:
+Assigned Presenter: Brandon Paige
 
 Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. https://arxiv.org/abs/1705.02364
 
@@ -81,7 +81,7 @@ Assigned Presenter:
 
 Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly. Nora Kassner, Hinrish Schutze. https://arxiv.org/abs/1911.03343
 
-Assigned Presenter:
+Assigned Presenter: Tejashvi Kethi Reddy
 
 A Review on Language Models as Knowledge Bases. Badr AlKhamissi, Millicent Li, Asli Celikyilmaz, Mona Diab, Marjan Ghazvininejad. https://arxiv.org/abs/2204.06031
 
